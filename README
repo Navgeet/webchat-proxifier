@@ -1,0 +1,7 @@
+freenode: a little 'proxy' to connect to http://webchat.freenode.net
+with any IRC client.
+
+Needs GTK and curl.
+
+Released in the public domain.
+http://sed.free.fr/freenode
