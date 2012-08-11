@@ -1,3 +1,12 @@
+This is the freenode webchat proxifier from http://sed.free.fr/freenode/.
+It relays webchat though localhost/6667 which makes it trivial to connect
+to webchat through any client or telnet.
+As of now its a hack hardcoded to work with Freenode. However it should be
+able to work with all networks using qwebirc.
+
+If you get SSL certificate errors, recompile replacing https with http.
+
+--------------------------------------------------------------------------
 freenode: a little 'proxy' to connect to http://webchat.freenode.net
 with any IRC client.
 
